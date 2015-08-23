@@ -22,18 +22,23 @@
   average accelerometer reading in z direction
   
 "tGravityAcc.mean...X" 
-  average accelerometer reading in Y direction
+  average reading in x direction
   
 "tGravityAcc.mean...Y" 
-
+  average reading in y direction
+  
 "tGravityAcc.mean...Z" 
-
+  average reading in z direction
+  
 "tBodyAccJerk.mean...X" 
+  average reading in x direction
 
 "tBodyAccJerk.mean...Y" 
-
+  average reading in y direction
+  
 "tBodyAccJerk.mean...Z" 
-
+  average reading in z direction
+  
 "tBodyGyro.mean...X" 
   average gyroscope reading in x direction
   
