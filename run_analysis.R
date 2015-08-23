@@ -16,14 +16,19 @@
 
 # Sets script varables accoding to your environment.
 setwd("/Volumes/DATA/Data Science/Coursera/3 GettingAndCleaningData")
+# filepath to the generated tidy data
 tidyDataDir = "./data/project/uch_activity.txt"
+# test data files
 testData = "./data/project/test/X_test.txt"
 testLabel = "./data/project/test/y_test.txt"
 testSubject = "./data/project/test/subject_test.txt"
+# training data files
 trainData = "./data/project/train/X_train.txt"
 trainLabel = "./data/project/train/y_train.txt"
 trainSubject = "./data/project/train/subject_train.txt"
+# physical activity labels
 activityLabel = "./data/project/activity_labels.txt"
+# feature set list
 features = "./data/project/features.txt"
 
 # Loads data
